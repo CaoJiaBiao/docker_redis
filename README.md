@@ -6,5 +6,6 @@
 | ----|  ----  | ----  |
 | docker|构建go的开发环境  | [点我](./go_docker) |
 |   | 构建redis |[点我](./redis_docker)|
+| bash|git bash设置  | [点我](./03git_bash) |
 
 如果需要用这些工具，请详细了解工具的具体含义，然后按需使用
